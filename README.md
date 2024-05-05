@@ -46,12 +46,12 @@
 </div>
 
 ###
-<h3 align="right">Version Control and  Cloud Platforms :</h3>
+<h3 align="left">Version Control and  Cloud Platforms :</h3>
 
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
@@ -81,11 +81,11 @@
 
 ###
 
-<h3 align="right">Modules and Libraries :</h3>
+<h3 align="left">Modules and Libraries :</h3>
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="tensorflow logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
