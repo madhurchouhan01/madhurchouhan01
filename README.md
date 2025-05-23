@@ -118,7 +118,7 @@
   <a href="https://www.instagram.com/madhur_chouhan_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="50" alt="instagram logo"  />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/madhurchouhan02/" target="blank">
+  <a href="https://leetcode.com/u/madhurchouhan02/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
   height="50" width="70" />
 </div>
