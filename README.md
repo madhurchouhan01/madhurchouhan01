@@ -18,11 +18,11 @@
 ###
 
 
-- 👨‍💻 All of my projects are available at [Portfolio.](https://madhurchouhan01.github.io/Portfolio./)
+- 👨‍💻 All of my projects are available at [Portfolio.](https://madhurchouhan01.github.io/Portfolio)
 
 - 💬 Ask me about **AI and ML**.
 
-- 📫 How to reach me [Gmail](madhurchouhan02@gmail.com)
+- 📫 How to reach me [Gmail](madhur.ai.atwork@gmail.com)
 
 - 📄 Know about my experiences
 [Resume](https://drive.google.com/file/d/13CsneeyafeEaweExNKwky8Opb4XbsDrZ/view?usp=drive_link)
